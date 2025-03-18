@@ -39,7 +39,7 @@ const CVCPage = () => {
       </div>
 
    
-      <h1 className="text-4xl font-bold mb-6 text-center text-white">Learn CVC Words</h1>
+      <h1 className="text-4xl font-bold mb-6 text-center text-red-500">Learn CVC Words</h1>
 
       <div className="space-y-8 text-white bg-black bg-opacity-50 p-8 rounded-lg max-w-4xl mx-auto">
         {Object.entries(cvcWords).map(([level, words]) => (
