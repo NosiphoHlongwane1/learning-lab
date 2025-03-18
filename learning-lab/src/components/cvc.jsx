@@ -1,7 +1,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import { Home } from "lucide-react"; 
-import readingBg from "../assets/reading-bg.jpg"; 
+import readingBg from "../assets/cvcbcg.jpg"; 
 
 const cvcWords = {
   Basic: ["cat", "dog", "bat", "mat", "bag", "leg", "pot", "bed", "gap", "jam", "job", "jim"],
