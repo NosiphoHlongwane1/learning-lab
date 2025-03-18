@@ -1,7 +1,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import { Home, Volume2 } from "lucide-react";
-import rainbow from "../assets/rainbow-bg.jpg";
+import rainbow from "../assets/readingbcg.jpg";
 
 const storiesData = {
   Basic: [
